@@ -1,0 +1,32 @@
+Index: app/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/AndroidManifest.xml	(revision d7a40e1c0754f3b9cc18b9ac3a80bbbeaed20436)
++++ app/src/main/AndroidManifest.xml	(revision )
+@@ -4,7 +4,7 @@
+ 
+     <application
+         android:allowBackup="true"
+-        android:icon="@mipmap/ic_launcher"
++        android:icon="@drawable/ic_graphic_eq_black_24dp"
+         android:label="@string/app_name"
+         android:supportsRtl="true"
+         android:theme="@style/AppTheme">
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(revision d7a40e1c0754f3b9cc18b9ac3a80bbbeaed20436)
++++ .idea/vcs.xml	(revision )
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="" vcs="" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
