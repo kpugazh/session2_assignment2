@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="in.saathitech.vibyor.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorViolet"
+        android:text="@string/strViolet"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:layout_weight="1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorIndigo"
+        android:text="@string/strIndigo"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:layout_weight="1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBlue"
+        android:text="@string/strBlue"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:layout_weight="1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorGreen"
+        android:text="@string/strGreen"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:layout_weight="1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorYellow"
+        android:text="@string/strYellow"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:layout_weight="1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorOrange"
+        android:text="@string/strOrange"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:layout_weight="1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorRed"
+        android:text="@string/strRed"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:layout_weight="1" />
+</LinearLayout>

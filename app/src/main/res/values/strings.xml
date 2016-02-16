@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Session 2 - Assignment 2 - VIBGYOR</string>
+    <string name="strViolet">Violet</string>
+    <string name="strIndigo">Indigo</string>
+    <string name="strBlue">Blue</string>
+    <string name="strGreen">Green</string>
+    <string name="strYellow">Yellow</string>
+    <string name="strOrange">Orange</string>
+    <string name="strRed">Red</string>
+</resources>
